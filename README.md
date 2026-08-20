@@ -6,7 +6,7 @@
 
 ![Formación](https://img.shields.io/badge/Formación-SENA-1f6feb?style=flat-square)
 ![Carrera](https://img.shields.io/badge/Carrera-Análisis%20y%20Desarrollo%20de%20Software-6e40c9?style=flat-square)
-![Ubicación](https://img.shields.io/badge/📍-Tu_Ciudad,_País-238636?style=flat-square)
+![Ubicación](https://img.shields.io/badge/📍-Bucaramanga,_Colombia-238636?style=flat-square)
 ![Modo](https://img.shields.io/badge/Modo-En%20constante%20aprendizaje-d29922?style=flat-square)
 
 </div>
@@ -59,7 +59,7 @@ Me llama la atención la **Inteligencia Artificial**, el **desarrollo web** y el
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=keinercode1102-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -69,8 +69,8 @@ Me llama la atención la **Inteligencia Artificial**, el **desarrollo web** y el
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Correo](https://img.shields.io/badge/-Correo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![Correo](https://img.shields.io/badge/-Correo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:keinercode1102@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-keinerq-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1137575562022494248)
 
 </div>
 
