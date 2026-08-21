@@ -59,7 +59,7 @@ Me llama la atención la **Inteligencia Artificial**, el **desarrollo web** y el
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=keinercode1102-dev&show_icons=true&theme=tokyonight&hide_border=true)
+[![Stats](https://github-stats-extended.vercel.app/api?username=keinercode1102-dev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/keinercode1102-dev)
 
 </div>
 
